@@ -17,8 +17,8 @@ namespace Portofy {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window {
-        public MainWindow() {
+    public partial class Portfolio : Window {
+        public Portfolio() {
             InitializeComponent();
         }
     }
